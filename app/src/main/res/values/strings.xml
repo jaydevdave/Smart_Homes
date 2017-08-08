@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SmartHomes</string>
+    <string name="iot_enabled">IoT Enabled</string>
+    <string name="smart_homes">Smart Homes</string>
+    <string name="humidity">Humidity(%)</string>
+    <string name="temperature_c">Temperature(°C)</string>
+    <string name="room1">room1</string>
+    <string name="room2">room2</string>
+    <string name="room3">room3</string>
+    <string name="room4">room4</string>
+    <string name="room5">room5</string>
+    <string name="wash1">wash1</string>
+    <string name="wash2">wash2</string>
+    <string name="wash3">wash3</string>
+    <string name="r1">R1</string>
+    <string name="r2">R2</string>
+    <string name="r3">R3</string>
+    <string name="r4">R4</string>
+    <string name="r5">R5</string>
+    <string name="w1">W1</string>
+    <string name="w2">W2</string>
+    <string name="w3">W3</string>
+</resources>
